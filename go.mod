@@ -1,4 +1,4 @@
-module github.com/akhil/go-bookstore
+module github.com/PranavKharche24/Go-bs
 
 go 1.22.2
 

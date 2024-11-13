@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/akhil/go-bookstore/pkg/routes"
+	"github.com/PranavKharche24/Go-bs/pkg/routes"
 	"github.com/gorilla/mux"
 )
 
